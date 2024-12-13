@@ -6,6 +6,7 @@
 1. [Background](#background)
 2. [Dataset](#dataset)
 3. [How to Run](#how-to-run)
+4. [Team Members](#team-members)
 
 
 ## Background
@@ -46,3 +47,9 @@ pip install -r requirements.txt
 ```
 
 **4. Run the code!**
+
+## Team Members
+- Hatim Rehmanjee
+- Emily Huang
+- Sudiksha Kalepu
+- Adrian Yan
