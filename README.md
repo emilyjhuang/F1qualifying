@@ -1,8 +1,4 @@
-# F1 qualifying
-
-# LatexOCR 
-
-<img src="https://i.sstatic.net/bjrWg.png" alt="Latex" width="300"/>
+# Predicting F1 Qualifying Positions
 
 
 ## Table of Contents
@@ -32,13 +28,14 @@ The goal of this project is to develop a machine learning-based ranking system t
 ## How to Run 
 **1. Clone the Github Repository**
 
-https://github.com/emilyjhuang/F1qualifying.git
+```
+git clone https://github.com/emilyjhuang/F1qualifying.git
+```
 
 **2. Change Directory to Cloned Repository**
 
-i.e. 
 ```
-cd <repository_directory>
+cd /path/to/repo
 ```
 
 
