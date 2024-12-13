@@ -49,7 +49,7 @@ pip install -r requirements.txt
 **4. Run the code!**
 
 ## Team Members
-- Hatim Rehmanjee
-- Emily Huang
+- [Hatim Rehmanjee](https://github.com/Hatimqr)
+- [Emily Huang](https://github.com/emilyjhuang)
 - Sudiksha Kalepu
 - Adrian Yan
